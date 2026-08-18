@@ -1,10 +1,13 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Champions in the Jungle
 ---
-## The index page
+## What is the Jungle?
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+The jungle sits in between the three main lanes of summoners rift. 
 
+![[Summoners Rift.webp|369]]
+
+In between the top lane and mid lane is the jungle as well as in between the mid lane and bottom lane. A dedicated player known as the jungler battles monsters in this area for their source of gold rather than how their laners do it by harvesting minions spawned from each players nexus.
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
