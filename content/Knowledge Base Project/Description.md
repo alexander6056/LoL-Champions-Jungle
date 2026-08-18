@@ -3,7 +3,7 @@ title: The Champions
 ---
 ### What are Champions?
 
-There are many different characters to play as they are known as Champions within summoners rift (the game).
+There are many different characters to play as. These, playable, characters are known as Champions within the Summoners Rift (the game).
 
 #### Why the Jungle?
 
