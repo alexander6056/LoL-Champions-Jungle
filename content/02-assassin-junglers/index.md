@@ -1,0 +1,3 @@
+---
+title: Assassin Junglers
+---

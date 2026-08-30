@@ -8,6 +8,15 @@ The jungle sits in between the three main lanes of summoners rift.
 ![[Summoners Rift.webp|369]]
 
 In between the top lane and mid lane is the jungle as well as in between the mid lane and bottom lane. A dedicated player known as the jungler battles monsters in this area for their source of gold rather than how their laners do it by harvesting minions spawned from each players nexus.
+## Main Categories
+
+- [[01-jungle-basics/index|Jungle Basics]]
+- [[02-assassin-junglers/index|Assassin Junglers]]
+- [[03-fighter-junglers/index|Fighter Junglers]]
+- [[04-tank-junglers/index|Tank Junglers]]
+- [[05-mage-junglers/index|Mage Junglers]]
+- [[06-jungle-pathing/index|Jungle Pathing]]
+- [[07-builds-and-strategy/index|Builds and Strategy]]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
