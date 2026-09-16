@@ -3,7 +3,7 @@
 
 The Jungler or Jungling role is one of five main roles in League of Legends. This role is played not in a dedicated lane but between them. The map Summoners Rift, has three lanes and the areas between them is known as the Jungle. This is where the Jungler resides and battles between numerous neutral monsters for gold and experience. The Jungler moves around the map providing assistance to teammates in their perspective lanes when they have the opportunity.
 
-![Summoner's Rift showing the lanes and jungle areas](/SummonersRiftUpdated.PNG)
+![Summoner's Rift showing the lanes and jungle areas](/SummonersRiftUpdated.JPG)
 
 
 ## Main Responsibilities of a Jungler
