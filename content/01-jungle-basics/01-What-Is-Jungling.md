@@ -23,6 +23,8 @@ A jungler has many key task during a game such as:
 
 Junglers are special unlike other players playing lanes. As a Jungler you can travel between different areas of the map and during these movements you can help influence these areas. While moving you are clearing camps as well as positioning yourself based on what is happening at different times of the game.
 
-> A succesful Jungler must balance farming, map pressure, teammate support, and objective control.
+> A successful Jungler must balance farming, map pressure, teammate support, and objective control.
 
-This makes the jungle role vital in all progressions of the game.
+This makes the jungle role vital in all progressions of the game. This role is both influential to the success of the match and can be very complicated. The Jungler must have a clear balance throughout the game because spending too much time farming may allow the enemy jungler to help their teammates more often, yet may attempts of unsuccessful ganks can cause the jungler to fall behind in both gold and experience (needed for levels).
+
+Learning the fundamentals of the role begins with understanding [[02-Jungle-Camps|Jungle Camps]]. When a player understands how jungle resources work, concepts like ganking and objective control will become much easier to grasp.
