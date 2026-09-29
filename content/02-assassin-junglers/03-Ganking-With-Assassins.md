@@ -35,4 +35,3 @@ After a successful gank, the jungler may be able to rotate toward an [[01-jungle
 ## Sources
 
 - [League of Legends Wiki - Jungling](https://wiki.leagueoflegends.com/en-us/Jungling)
-- [League of Legends Wiki - Champion Classes](https://wiki.leagueoflegends.com/en-us/Champion_class)

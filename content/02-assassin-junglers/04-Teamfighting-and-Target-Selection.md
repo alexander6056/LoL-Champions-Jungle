@@ -31,7 +31,3 @@ After dealing damage, the assassin may need to retreat instead of remaining in t
 > The correct target can be more important than simply dealing the most possible damage.
 
 Proper target selection is one of the major differences between assassin junglers and [[03-fighter-junglers/index|Fighter Junglers]].
-
-## Sources
-
-- [League of Legends Wiki - Champion Classes](https://wiki.leagueoflegends.com/en-us/Champion_class)

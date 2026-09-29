@@ -25,5 +25,4 @@ Assassins often become dangerous when they are able to approach enemies without 
 Understanding the normal [[01-jungle-basics/01-What-Is-Jungling|Jungle Role]] is important because assassins still need to balance farming, objectives, and helping teammates.
 ## Sources
 
-- [League of Legends Wiki - Champion Classes](https://wiki.leagueoflegends.com/en-us/Champion_class)
 - [Riot Games - Champions](https://www.leagueoflegends.com/en-us/champions/)

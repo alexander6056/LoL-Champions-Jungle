@@ -33,4 +33,3 @@ Learning the general assassin playstyle first makes it easier to understand indi
 ## Sources
 
 - [Riot Games - Champions](https://www.leagueoflegends.com/en-us/champions/)
-- [League of Legends Wiki - Champion Classes](https://wiki.leagueoflegends.com/en-us/Champion_class)

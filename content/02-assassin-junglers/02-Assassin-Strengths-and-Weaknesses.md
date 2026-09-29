@@ -35,6 +35,4 @@ An assassin that attacks at the wrong time may be defeated before they can elimi
 
 These strengths and weaknesses influence how a player approaches [[03-Ganking-With-Assassins|Ganking With Assassins]].
 
-## Sources
 
-- [League of Legends Wiki - Champion Classes](https://wiki.leagueoflegends.com/en-us/Champion_class)
