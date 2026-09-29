@@ -1,7 +1,6 @@
 ---
-
 title: Objectives
-
+date: 2026-09-20
 ---
 # Objectives
 
@@ -24,3 +23,9 @@ Objectives show why the jungle role is about more than simply defeating camps. A
 Starting a major neutral objective without information can be risky because the enemy team may contest it. Vision, teammate position, and the location of the opposing jungler all matter.
 
 This connects back to [[01-What-Is-Jungling|What Is Jungling?]]. Farming, ganking, Smite usage, and objective control are all parts of the same role. A player who understands how these pieces work together has a stronger foundation for learning more advanced jungle pathing and champion-specific strategies.
+
+## Sources
+
+- [League of Legends Wiki - Baron Nashor](https://wiki.leagueoflegends.com/en-us/Baron_Nashor)
+- [League of Legends Wiki - Dragon Slayer](https://wiki.leagueoflegends.com/en-us/Dragon_Slayer)
+- [League of Legends Wiki - Jungling](https://wiki.leagueoflegends.com/en-us/Jungling)

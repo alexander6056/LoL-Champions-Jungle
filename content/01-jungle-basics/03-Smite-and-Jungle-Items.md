@@ -1,7 +1,6 @@
 ---
-
 title: Smite and Jungle Items
-
+date: 2026-09-20
 ---
 # Smite and Jungle Items
 
@@ -23,3 +22,9 @@ Smite is not only about pressing a button on a monster. The jungler has to decid
 > Saving an important resource can be just as valuable as using it immediately.
 
 This connects Smite to the rest of the jungle role. A jungler may clear camps, move into a [[04-Ganking-Basics|gank]], and then rotate toward an objective. Those actions are connected rather than separate. The basic ideas described in [[01-What-Is-Jungling|What Is Jungling?]] become easier to understand once the player sees how Smite, camps, ganks, and objectives all affect one another.
+
+## Sources
+
+- [League of Legends Wiki - Smite](https://wiki.leagueoflegends.com/en-us/Smite)
+- [Riot Games - Preseason 2021 Champion Class Item Goals](https://www.leagueoflegends.com/en-us/news/riot-games/preseason-2021-champion-class-item-goals/)
+- [Riot Games - Patch 10.23 Notes: Jungle Items & Changes](https://www.leagueoflegends.com/en-au/news/game-updates/patch-10-23-notes/)

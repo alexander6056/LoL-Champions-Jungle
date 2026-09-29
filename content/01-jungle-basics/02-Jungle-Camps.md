@@ -1,5 +1,6 @@
 ---
 title: Jungle Camps
+date: 2026-09-20
 ---
 # Jungle Camps
   
@@ -26,3 +27,8 @@ The route a jungler takes through camps is often called jungle pathing. A player
 
   
   Jungle camps also connect directly to [[03-Smite-and-Jungle-Items|Smite and Jungle Items]]. Smite helps a jungler manage neutral monsters and is especially important when fighting over major objectives. Understanding camps is therefore one of the first practical skills needed after learning [[01-What-Is-Jungling|What Is Jungling?]].
+
+## Sources
+
+- [League of Legends Wiki - Monster](https://wiki.leagueoflegends.com/en-us/Monster)
+- [League of Legends Wiki - Jungling](https://wiki.leagueoflegends.com/en-us/Jungling)

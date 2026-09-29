@@ -1,5 +1,6 @@
 ---
 title: What Is Jungling?
+date: 2026-09-20
 ---
 
 # What is Jungling?
@@ -28,3 +29,8 @@ Junglers are special unlike other players playing lanes. As a Jungler you can tr
 This makes the jungle role vital in all progressions of the game. This role is both influential to the success of the match and can be very complicated. The Jungler must have a clear balance throughout the game because spending too much time farming may allow the enemy jungler to help their teammates more often, yet may attempts of unsuccessful ganks can cause the jungler to fall behind in both gold and experience (needed for levels).
 
 Learning the fundamentals of the role begins with understanding [[02-Jungle-Camps|Jungle Camps]]. When a player understands how jungle resources work, concepts like ganking and objective control will become much easier to grasp.
+
+## Sources
+
+- [League of Legends Wiki - Jungling](https://wiki.leagueoflegends.com/en-us/Jungling)
+- [League of Legends Wiki - Main Page](https://wiki.leagueoflegends.com/en-us/)

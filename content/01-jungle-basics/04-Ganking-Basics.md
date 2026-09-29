@@ -1,7 +1,6 @@
 ---
-
 title: Ganking Basics
-
+date: 2026-09-20
 ---
 # Ganking Basics
 
@@ -25,3 +24,7 @@ A gank is usually easier when the enemy champion is farther away from safety. Th
 Waiting too long for a gank can be expensive because untouched [[02-Jungle-Camps|Jungle Camps]] may be lost or the opposing jungler may gain an advantage elsewhere. This is why ganking has to be balanced with farming.
 
 The overall jungle role described in [[01-What-Is-Jungling|What Is Jungling?]] is based on making these tradeoffs. After a successful gank, the team may be able to move directly toward an objective, making ganking an important link between farming and map control.
+
+## Sources
+
+- [League of Legends Wiki - Jungling](https://wiki.leagueoflegends.com/en-us/Jungling)
