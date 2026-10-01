@@ -20,9 +20,7 @@ A tank jungler should:
 Crowd control may include effects that slow, stun, knock up, or otherwise restrict enemy movement.
 ## Working With Teammates
 
-Tank ganks depend heavily on teamwork.
-
-If the allied laner cannot follow the engagement, the tank may not have enough damage to finish the fight alone.
+Tank ganks depend heavily on teamwork. If the allied laner cannot follow the engagement, the tank may not have enough damage to finish the fight alone.
 
 > Tank ganks are strongest when crowd control and teammate damage are combined.
 

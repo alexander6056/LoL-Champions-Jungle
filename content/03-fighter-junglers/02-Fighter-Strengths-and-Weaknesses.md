@@ -4,8 +4,7 @@ date: 2026-09-29
 ---
 # Fighter Strengths and Weaknesses
 
-Fighter junglers are often flexible because they can provide both damage and durability.
-However, they are not perfect in every situation.
+Fighter junglers are often flexible because they can provide both damage and durability. However, they are not perfect in every situation.
 
 ## Strengths
 

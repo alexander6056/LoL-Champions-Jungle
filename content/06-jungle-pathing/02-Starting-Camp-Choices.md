@@ -1,12 +1,10 @@
 ---
 title: Starting Camp Choices
-date: 2026-09-30
+date: 2026-10-01
 ---
 # Starting Camp Choices
 
-The first jungle camp a player chooses can affect where they finish their first clear.
-
-A jungler should think about their plan before the camps begin spawning.
+The first jungle camp a player chooses can affect where they finish their first clear. A jungler should think about their plan before the camps begin spawning.
 
 ## Things to Consider
 
@@ -26,7 +24,7 @@ A starting camp should be connected to a larger plan.
 
 For example:
 
-Start → Clear Camps → Reach Lane → Gank or Continue Farming
+Start &rarr; Clear Camps &rarr; Reach Lane &rarr; Gank or Continue Farming
 
 > The first camp is the beginning of the jungle route, not an isolated decision.
 

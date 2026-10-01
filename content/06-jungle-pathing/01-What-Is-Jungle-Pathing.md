@@ -1,14 +1,11 @@
 ---
 title: What Is Jungle Pathing?
-date: 2026-09-30
+date: 2026-10-01
 ---
+
 # What Is Jungle Pathing?
 
-Jungle pathing is the route a jungler follows while moving between jungle camps and other areas of the map.
-
-A path is not only about deciding which monsters to defeat.
-
-The route should also place the jungler in a useful location afterward.
+Jungle pathing is the route a jungler follows while moving between jungle camps and other areas of the map. A path is not only about deciding which monsters to defeat. The route should also place the jungler in a useful location afterward.
 
 ## Why Pathing Matters
 

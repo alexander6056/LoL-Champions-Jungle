@@ -20,15 +20,11 @@ A mage should consider:
 - Ability range.
 - Nearby terrain.
 
-A mage standing too far forward may be quickly defeated.
-
-Standing too far away may prevent the mage from using abilities effectively.
+A mage standing too far forward may be quickly defeated. Standing too far away may prevent the mage from using abilities effectively.
 
 ## Using Abilities
 
-Many mages want to use abilities from a position where enemies cannot easily reach them.
-
-Area-of-effect abilities can become especially valuable when multiple enemies are close together.
+Many mages want to use abilities from a position where enemies cannot easily reach them. Area-of-effect abilities can become especially valuable when multiple enemies are close together.
 
 > Good positioning allows a mage to deal damage without becoming an easy target.
 

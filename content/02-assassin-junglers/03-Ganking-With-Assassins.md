@@ -24,9 +24,7 @@ Assassins usually benefit from attacking enemies who have moved far away from th
 
 ## Using Surprise
 
-Approaching from an area without enemy vision can make it harder for the enemy to react.
-
-An assassin does not always need to get a kill. Forcing an enemy to retreat or use an important ability can still help a teammate.
+Approaching from an area without enemy vision can make it harder for the enemy to react. An assassin does not always need to get a kill. Forcing an enemy to retreat or use an important ability can still help a teammate.
 
 > A successful assassin gank depends on choosing the right opportunity instead of attacking every available lane.
 

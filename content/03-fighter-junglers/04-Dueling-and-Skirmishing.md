@@ -4,9 +4,7 @@ date: 2026-09-29
 ---
 # Dueling and Skirmishing
 
-A duel is usually a fight between two champions.
-A skirmish is a smaller fight involving several champions but not necessarily the entire team.
-Fighter junglers are commonly strong in these situations.
+A duel is usually a fight between two champions. A skirmish is a smaller fight involving several champions but not necessarily the entire team. Fighter junglers are commonly strong in these situations.
 
 ## Before Fighting
 
@@ -24,9 +22,7 @@ Winning a duel is useful, but beginning a risky fight may cause the jungler to l
 
 ## Fighting Around the Jungle
 
-Jungle entrances, river areas, and objectives frequently create small fights between teams.
-
-Fighters often perform well because they can deal damage while surviving longer than less durable champions.
+Jungle entrances, river areas, and objectives frequently create small fights between teams. Fighters often perform well because they can deal damage while surviving longer than less durable champions.
 
 > Winning a fight is valuable only when the fight is worth taking.
 

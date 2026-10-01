@@ -4,8 +4,7 @@ date: 2026-09-29
 ---
 # What Are Fighter Junglers?
 
-Fighter junglers are champions that combine damage with enough durability to survive longer fights.
-Unlike assassins, fighters do not always need to eliminate an opponent immediately.
+Fighter junglers are champions that combine damage with enough durability to survive longer fights. Unlike assassins, fighters do not always need to eliminate an opponent immediately.
 Many fighters perform well in extended battles where they can repeatedly attack or use abilities.
 
 ## Main Goals

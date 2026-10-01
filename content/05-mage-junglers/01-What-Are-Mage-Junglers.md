@@ -4,9 +4,7 @@ date: 2026-09-30
 ---
 # What Are Mage Junglers?
 
-Mage junglers are champions that rely heavily on abilities to deal damage or control enemies.
-
-Many mage junglers deal magic damage and prefer to fight from a safer distance than fighters or tanks.
+Mage junglers are champions that rely heavily on abilities to deal damage or control enemies. Many mage junglers deal magic damage and prefer to fight from a safer distance than fighters or tanks.
 
 ## Main Goals
 

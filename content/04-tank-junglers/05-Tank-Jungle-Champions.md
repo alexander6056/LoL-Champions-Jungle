@@ -25,9 +25,7 @@ Tank junglers often have:
 - Defensive abilities.
 - Strong team-fighting tools.
 
-Each tank approaches fights differently.
-
-Some tanks specialize in starting fights while others may provide stronger protection or control.
+Each tank approaches fights differently. Some tanks specialize in starting fights while others may provide stronger protection or control.
 
 > Tank champions create value through control and durability as well as damage.
 ## Sources

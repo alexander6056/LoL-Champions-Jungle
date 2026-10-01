@@ -21,9 +21,7 @@ A tank should check:
 Starting a fight without teammates nearby can cause the tank to be defeated without gaining anything.
 ## Protecting Teammates
 
-Tanks do not always need to attack first.
-
-Sometimes protecting an allied damage dealer is more useful than entering the enemy team.
+Tanks do not always need to attack first. Sometimes protecting an allied damage dealer is more useful than entering the enemy team.
 
 > A good tank knows when to start a fight and when to protect teammates instead.
 

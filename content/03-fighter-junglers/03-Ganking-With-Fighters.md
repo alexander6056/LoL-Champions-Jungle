@@ -18,9 +18,7 @@ Before attacking, check:
 - Enemy vision.
 - Location of the enemy jungler.
 
-Some fighter junglers can begin a gank using a movement or crowd-control ability.
-
-Others may need to approach the enemy before using their strongest abilities.
+Some fighter junglers can begin a gank using a movement or crowd-control ability. Others may need to approach the enemy before using their strongest abilities.
 
 ## Staying in the Fight
 
